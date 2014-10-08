@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# ImageScenes
+#
+
+projectname: ImageScenes
+vendorid: com.mycompany
+mainmodule: com.mycompany.imagescenes
